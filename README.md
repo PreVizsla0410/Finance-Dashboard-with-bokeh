@@ -7,6 +7,7 @@ If your are interested in python/Bokeh finance programms, copy my code it is fro
 It has to be integrated into a framework - I believe 
 
 First work with Bokeh #pip install bokeh
+------------------------
 Yahoo Finance  #pip install yfinance 
 
 Will update soon 
